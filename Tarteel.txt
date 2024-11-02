@@ -1,0 +1,12 @@
+Hello, From Tarteel Repo.
+
+
+
+
+git init 
+git git remote add origin https://github.com/TarteelTamimi/bayan-test.git
+git add . 
+git commit -m "Init commit"
+git push
+
+git pull
