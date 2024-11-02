@@ -1,0 +1,4 @@
+git clone  https://github.com/TarteelTamimi/bayan-test.git
+git add .
+git commit -m "add bayan file"
+git push
